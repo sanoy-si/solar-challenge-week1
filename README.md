@@ -23,10 +23,8 @@ pip install -r requirements.txt
 ```bash
 ├── .vscode/
 ├── .github/workflows/
-├── data/
 ├── notebooks/
 ├── scripts/
-├── src/
 ├── tests/
 ├── requirements.txt
 └── README.md
