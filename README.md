@@ -29,3 +29,9 @@ pip install -r requirements.txt
 ├── requirements.txt
 └── README.md
 ```
+
+## Streamlit Dashboard
+
+- Select a country from dropdown.
+- View summary stats, boxplot, and top regions by GHI.
+- Deployed at: [your public URL]
