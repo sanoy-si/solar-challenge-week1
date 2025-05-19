@@ -34,4 +34,4 @@ pip install -r requirements.txt
 
 - Select a country from dropdown.
 - View summary stats, boxplot, and top regions by GHI.
-- Deployed at: [your public URL]
+- Deployed at: [https://solar-insights-dashboard.streamlit.app/]
